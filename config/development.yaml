@@ -1,0 +1,9 @@
+db:
+  host: 'localhost'
+  username: 'myadmin'
+  password: '1111'
+  synchronize: true
+  # synchronize true일 경우 entity를 매번 새로 읽어온다.
+
+jwt:
+  secret: 'secretcode'
